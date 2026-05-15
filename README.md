@@ -2,7 +2,7 @@
 
 ### iOS Engineer · 5+ years · Swift Lover
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/sergei-podgainy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-podgainy/)
 [![Email](https://img.shields.io/badge/spviz.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spviz.dev@gmail.com)
 ![Location](https://img.shields.io/badge/Batumi,_Georgia-GMT+3-4CAF50?style=flat-square)
 
