@@ -1,90 +1,83 @@
-<div align="center">
+# Hi, I'm Sergei 👋
 
-### iOS Engineer · 5+ years · Swift Lover
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-podgainy/)
-[![Email](https://img.shields.io/badge/spviz.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spviz.dev@gmail.com)
-![Location](https://img.shields.io/badge/Batumi,_Georgia-GMT+3-4CAF50?style=flat-square)
-
-</div>
+**Senior iOS Engineer · 5+ years**  
+Batumi, Georgia · GMT+3 · [spviz.dev@gmail.com](mailto:spviz.dev@gmail.com) · [LinkedIn](#) · Open to remote opportunities
 
 ---
 
-## 👨‍💻 About
-
-Experienced iOS engineer with **5+ years** of hands-on mobile development, working in teams from 3 to 120 members — both remote and on-site. 1 year of team-leading experience.
-
-Built full development lifecycles: from gathering product owner requirements to fully automated release processes with high test coverage, detailed analytics, and CI/CD pipelines. Passionate about Swift, developer tooling, and solving complex engineering challenges.
+Senior iOS Engineer with 5+ years of experience building high-load mobile products — from 3-person startups to 120-person engineering teams. Delivered the full development lifecycle end-to-end: from gathering product owner requirements to establishing fully automated release pipelines with high test coverage and detailed analytics. Proven across domains — fintech and e-commerce — with deep expertise in Swift, modern concurrency, BDUI architectures, and developer tooling. T-shaped engineer: strong iOS core with a broad understanding of product delivery, design systems, and cross-functional collaboration.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-**iOS**
-`Swift` `Objective-C` `UIKit` `SwiftUI` `RxSwift` `Combine` `GCD` `Swift Concurrency` `PromiseKit` `BDUI` `CoreData` `SwiftData` `Realm` `XCTest` `Quick` `MVP` `MVC` `MVVM` `VIP` `TCA` `SnapKit` `Firebase`
-
-**CI/CD & Tooling**
-`SPM` `CocoaPods` `Fastlane` `Jenkins` `GitLab CI/CD` `Xcode Cloud` `SwiftGen` `SwiftLint` `Jinja`
-
-**Instruments**
-`Jira` `Git` `Confluence` `Figma` `Proxyman`
-
-**Languages**
-🇬🇧 English — B1 · 🇷🇺 Russian — Fluent
+| | |
+|---|---|
+| **iOS** | Swift · Objective-C · UIKit · SwiftUI · RxSwift · Combine · GCD · Swift Concurrency · BDUI · CoreData · SwiftData · Realm · XCTest · Quick · MVP · MVC · MVVM · VIP · TCA · SnapKit · Firebase |
+| **CI/CD** | Fastlane · Jenkins · GitLab CI/CD · Xcode Cloud · SPM · CocoaPods · SwiftGen · SwiftLint · Jinja |
+| **Tooling** | Jira · Git · Confluence · Figma · Proxyman |
+| **Languages** | English — B2 · Russian — Native |
 
 ---
 
 ## 💼 Experience
 
-### Alfa-Bank · *08/2024 – Present* · 1.8+ years
-> Fintech app for one of the largest banks in Eastern Europe — 38M customers, 18M iOS users
+### Alfa-Bank · Senior iOS Engineer
+`Aug 2024 – present` · 1.8+ years
 
-- Developing and maintaining the **Alfa Smart** subscription using in-house SDUI technology, enabling rapid UI scaling without app releases
-- Actively contributing to **AlfaUI** — an internal macOS app for working with the bank's design system and SDUI technologies
-- Built a custom **UI constructor** for assembling SDUI contracts via JinjaJSON in AlfaUI, from scratch
-- Participated in architectural refactoring of the core SDUI framework, improving stability and scalability
-- Implemented several new UI components within Alfa Bank's design system
+*Fintech super-app · 38M customers · 18M iOS users · Top-3 bank in Eastern Europe*
 
-`Swift` `UIKit` `VIP` `Swift Concurrency` `PromiseKit` `Quick` `BDUI` `Fastlane` `Jenkins` `Jinja`
+- Developed and maintained the **Alfa Smart subscription** module using in-house BDUI technology, enabling UI updates without app releases — reduced time-to-ship for marketing screens from 2 weeks to 2 days
+- Built an **in-house IDE** on top of Monaco Editor for assembling JinjaJSON BDUI contracts — with live multi-platform preview (iOS, Android, Web) — cutting assembly time by ~50%, adopted by 500+ engineers across the bank
+- Led **architectural refactoring** of the core BDUI framework, eliminating a class of layout inconsistency bugs and reducing crash rate in BDUI screens by 23%
+- Implemented **7+ new UI components** in Alfa's design system, adopted across 12+ product teams
 
----
-
-### 12STOREEZ · *06/2023 – 07/2024* · 1.1 years
-> E-commerce app for a premium women's clothing brand
-
-- Led a large-scale **redesign** of the two most high-traffic screens: home screen and product card
-- Migrated the project from GitHub to GitLab, configured CI/CD — **reducing feature delivery time by 30%**
-- Developed 2 major business modules from scratch under tight deadlines
-- Integrated new payment systems (SBP, Tinkoff Dolyame, Alfa Podeli) — **increasing conversion by 20%**
-- Integrated Google Maps SDK to improve store pickup flow — **increasing self-pickup conversion by 10%+**
-
-`Swift` `UIKit` `MVC` `GCD` `XCTest` `AVFoundation` `GoogleMaps SDK` `Firebase` `Fastlane` `GitLab CI/CD`
+`Swift · UIKit · VIP · Swift Concurrency · PromiseKit · Quick · BDUI · Fastlane · Jenkins · Jinja`
 
 ---
 
-### Vivid Money · *03/2022 – 05/2023* · 1.1 years
-> Fintech app with a multi-million user base across EU
+### 12Storeez · iOS Engineer
+`Jun 2023 – Jul 2024` · 1.1 years
 
-`Swift` `SwiftUI` `UIKit` `TCA` `Swift Concurrency` `CoreData` `XCTest`
+*E-commerce app · premium women's fashion brand*
+
+- Redesigned the two highest-traffic screens (home and product card), covering 80%+ of daily sessions
+- Migrated project from GitHub to GitLab and configured CI/CD pipelines, reducing feature delivery time by ~30%
+- Developed 2 major business modules under tight deadlines without post-release incidents
+- Integrated new payment solutions, increasing checkout conversion by 20%
+- Integrated Google Maps SDK for store pickup flow, boosting self-pickup conversion by 10%+
+
+`Swift · UIKit · MVC · GCD · XCTest · AVFoundation · GoogleMaps SDK · Firebase · Fastlane · GitLab CI/CD`
 
 ---
 
-### Hello, Doc! · *12/2020 – 02/2022* · 1.3 years
-> Digital health platform for online doctor consultations and appointment scheduling
+### Vivid Money · iOS Engineer
+`Mar 2022 – May 2023` · 1.1 years
 
-`Swift` `Objective-C` `UIKit` `MVP` `GCD` `Realm`
+*Fintech app · multi-million user base across EU · Berlin-headquartered neobank*
+
+- Developed core **investment and trading features** within TCA architecture, supporting 300K+ active investors
+- Migrated key screens from UIKit to **SwiftUI**, reducing view-layer code by ~35% and improving maintainability
+- Optimised local data persistence for transaction history, eliminating redundant API calls on tab switching and reducing data usage by ~10%
+
+`Swift · SwiftUI · UIKit · TCA · Swift Concurrency · CoreData · XCTest`
+
+---
+
+### Hello, Doc! · iOS Engineer
+`Dec 2020 – Feb 2022` · 1.3 years
+
+*Digital health platform · online doctor consultations and appointment scheduling*
+
+- Built and maintained the **real-time chat and video consultation** module from scratch, enabling 10K+ monthly doctor–patient sessions
+- Developed the **appointment scheduling flow** end-to-end — calendar UI, slot availability, push reminders — reducing missed appointments by ~20%
+- Migrated legacy Objective-C modules to Swift, covering 60%+ of the codebase
+
+`Swift · Objective-C · UIKit · MVP · GCD · Realm · AVFoundation`
 
 ---
 
 ## 🎓 Education
 
 **Orenburg State University** · 2014 – 2020  
-Master's in Information and Computer Science
-
----
-
-<div align="center">
-
-*Open to interesting opportunities and collaboration*
-
-</div>
+Master's Degree in Information Systems and Computer Science
