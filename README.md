@@ -1,7 +1,7 @@
 # Hi, I'm Sergei 👋
 
 **Senior iOS Engineer · 5+ years**  
-Batumi, Georgia · GMT+3 · [spviz.dev@gmail.com](mailto:spviz.dev@gmail.com) · [LinkedIn](#) · Open to remote opportunities
+Batumi, Georgia · [spviz.dev@gmail.com](mailto:spviz.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergei-podgainy/) · Open to remote opportunities
 
 ---
 
