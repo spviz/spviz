@@ -9,17 +9,6 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 
 ---
 
-## 🛠 Tech Stack
-
-| | |
-|---|---|
-| **iOS** | Swift · Objective-C · UIKit · SwiftUI · RxSwift · Combine · GCD · Swift Concurrency · BDUI · CoreData · SwiftData · Realm · XCTest · Quick · MVP · MVC · MVVM · VIP · TCA · SnapKit · Firebase |
-| **CI/CD** | Fastlane · Jenkins · GitLab CI/CD · Xcode Cloud · SPM · CocoaPods · SwiftGen · SwiftLint · Jinja |
-| **Tooling** | Jira · Git · Confluence · Figma · Proxyman |
-| **Languages** | English — B2 · Russian — Native |
-
----
-
 ## 💼 Experience
 
 ### Alfa-Bank · Senior iOS Engineer
@@ -74,6 +63,17 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 - Migrated legacy Objective-C modules to Swift, covering 60%+ of the codebase
 
 `Swift · Objective-C · UIKit · MVP · GCD · Realm · AVFoundation`
+
+---
+
+## 🛠 Tech Stack
+
+| | |
+|---|---|
+| **iOS** | Swift · Objective-C · UIKit · SwiftUI · RxSwift · Combine · GCD · Swift Concurrency · BDUI · CoreData · SwiftData · Realm · XCTest · Quick · MVP · MVC · MVVM · VIP · TCA · SnapKit · Firebase |
+| **CI/CD** | Fastlane · Jenkins · GitLab CI/CD · Xcode Cloud · SPM · CocoaPods · SwiftGen · SwiftLint · Jinja |
+| **Tooling** | Jira · Git · Confluence · Figma · Proxyman |
+| **Languages** | English — B2 · Russian — Native |
 
 ---
 
