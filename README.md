@@ -11,58 +11,46 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 
 ## 💼 Experience
 
-### Alfa-Bank · Senior iOS Engineer
-`Aug 2024 – present` · 1.8+ years
+### 🏦 Alfa-Bank · Senior iOS Engineer
+**Jun 2024 – Present** · ~2 years
 
-*Fintech super-app · 38M customers · 18M iOS users · Top-3 bank in Eastern Europe*
+> Fintech app for one of the largest banks in Eastern Europe — 38M customers, 18M iOS users.
 
-- Developed and maintained the **Alfa Smart subscription** module using in-house BDUI technology, enabling UI updates without app releases — reduced time-to-ship for marketing screens from 2 weeks to 2 days
-- Built an **in-house IDE** on top of Monaco Editor for assembling JinjaJSON BDUI contracts — with live multi-platform preview (iOS, Android, Web) — cutting assembly time by ~50%, adopted by 500+ engineers across the bank
-- Led **architectural refactoring** of the core BDUI framework, eliminating a class of layout inconsistency bugs and reducing crash rate in BDUI screens by 23%
-- Implemented **7+ new UI components** in Alfa's design system, adopted across 12+ product teams
+- Built the **Alfa Smart subscription module** using in-house BDUI technology — reduced time-to-ship for marketing screens from **2 weeks → 2 days**
+- Built an **in-house IDE** on top of Monaco Editor for assembling Jinja-JSON BDUI contracts with live multi-platform preview (iOS, Android, Web) — cut assembly time by **~50%**, adopted by **500+ engineers**
+- Led **architectural refactoring** of the core BDUI framework — resolved layout inconsistency bugs, improved crash-free rate on BDUI screens to **99%**
+- Implemented **7+ UI components** in Alfa's design system, adopted across **30+ product teams**
 
-`Swift · UIKit · VIP · Swift Concurrency · PromiseKit · Quick · BDUI · Fastlane · Jenkins · Jinja`
-
----
-
-### 12Storeez · iOS Engineer
-`Jun 2023 – Jul 2024` · 1.1 years
-
-*E-commerce app · premium women's fashion brand*
-
-- Redesigned the two highest-traffic screens (home and product card), covering 80%+ of daily sessions
-- Migrated project from GitHub to GitLab and configured CI/CD pipelines, reducing feature delivery time by ~30%
-- Developed 2 major business modules under tight deadlines without post-release incidents
-- Integrated new payment solutions, increasing checkout conversion by 20%
-- Integrated Google Maps SDK for store pickup flow, boosting self-pickup conversion by 10%+
-
-`Swift · UIKit · MVC · GCD · XCTest · AVFoundation · GoogleMaps SDK · Firebase · Fastlane · GitLab CI/CD`
+`Swift` `UIKit` `VIP` `Swift Concurrency` `PromiseKit` `BDUI` `Fastlane` `Jenkins` `Jinja`
 
 ---
 
-### Vivid Money · iOS Engineer
-`Mar 2022 – May 2023` · 1.1 years
+### 👗 12STOREEZ · iOS Engineer
+**Jun 2023 – Jun 2024** · 1 year
 
-*Fintech app · multi-million user base across EU · Berlin-headquartered neobank*
+> E-commerce app for a premium women's clothing brand.
 
-- Developed core **investment and trading features** within TCA architecture, supporting 300K+ active investors
-- Migrated key screens from UIKit to **SwiftUI**, reducing view-layer code by ~35% and improving maintainability
-- Optimised local data persistence for transaction history, eliminating redundant API calls on tab switching and reducing data usage by ~10%
+- **Redesigned** the two highest-traffic screens (home & product card), covering **80%+ of daily sessions**
+- Migrated project from GitHub to GitLab and **configured CI/CD pipelines** — reduced feature delivery time by **~30%**
+- Integrated new payment solutions — increased **checkout conversion by 20%**
+- Integrated **Google Maps SDK** for store pickup flow — boosted self-pickup conversion by **10%+**
 
-`Swift · SwiftUI · UIKit · TCA · Swift Concurrency · CoreData · XCTest`
+`Swift` `UIKit` `MVC` `GCD` `XCTest` `AVFoundation` `GoogleMaps SDK` `Firebase` `Fastlane` `GitLab CI/CD`
 
 ---
 
-### Hello, Doc! · iOS Engineer
-`Dec 2020 – Feb 2022` · 1.3 years
+### 💸 Vivid Money · iOS Engineer
+**Dec 2020 – May 2023** · 2.5 years
 
-*Digital health platform · online doctor consultations and appointment scheduling*
+> Fintech app with a multi-million user base across the EU.
 
-- Built and maintained the **real-time chat and video consultation** module from scratch, enabling 10K+ monthly doctor–patient sessions
-- Developed the **appointment scheduling flow** end-to-end — calendar UI, slot availability, push reminders — reducing missed appointments by ~20%
-- Migrated legacy Objective-C modules to Swift, covering 60%+ of the codebase
+- Developed **core investment and trading features** supporting **300K+ active investors**
+- Improved onboarding for new iOS developers — reduced ramp-up time to first PR by **30%**
+- Redesigned portfolio overview screen — lifted **30-day retention among new investors by 12%**
+- Migrated key screens from UIKit to SwiftUI — reduced view-layer code by **~35%**
+- Optimised local data persistence — eliminated redundant API calls, reduced data usage by **~10%**
 
-`Swift · Objective-C · UIKit · MVP · GCD · Realm · AVFoundation`
+`Swift` `SwiftUI` `UIKit` `TCA` `Swift Concurrency` `CoreData` `XCTest`
 
 ---
 
