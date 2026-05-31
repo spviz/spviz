@@ -11,7 +11,7 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 
 ## 💼 Experience
 
-### 🏦 Alfa-Bank · Senior iOS Engineer
+### Alfa-Bank · Senior iOS Engineer
 **Jun 2024 – Present** · ~2 years
 
 > Fintech app for one of the largest banks in Eastern Europe — 38M customers, 18M iOS users.
@@ -25,7 +25,7 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 
 ---
 
-### 👗 12STOREEZ · iOS Engineer
+### 12STOREEZ · iOS Engineer
 **Jun 2023 – Jun 2024** · 1 year
 
 > E-commerce app for a premium women's clothing brand.
@@ -39,7 +39,7 @@ Senior iOS Engineer with 5+ years of experience building high-load mobile produc
 
 ---
 
-### 💸 Vivid Money · iOS Engineer
+### Vivid Money · iOS Engineer
 **Dec 2020 – May 2023** · 2.5 years
 
 > Fintech app with a multi-million user base across the EU.
